@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: final_paper.pdf
-type: OCWFile
 uid: cd82f738-00ae-e77f-80cd-4cdb0266700d
 ---

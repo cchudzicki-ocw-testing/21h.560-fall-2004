@@ -14,6 +14,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: bibliography.pdf
-type: OCWFile
 uid: 7cc4936e-d5af-c72b-bfa1-1b2f771b97f2
 ---

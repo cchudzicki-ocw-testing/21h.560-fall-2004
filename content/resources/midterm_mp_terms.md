@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: midterm_mp_terms.pdf
-type: OCWFile
 uid: 07fee33d-9efd-7e8a-b4b8-22544f6facb9
 ---

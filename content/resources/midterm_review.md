@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: midterm_review.pdf
-type: OCWFile
 uid: e18da441-b72e-20d8-d638-eb7025f08569
 ---

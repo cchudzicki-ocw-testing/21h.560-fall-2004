@@ -10,6 +10,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: MIT21H_560f04_syllf04.pdf
-type: OCWFile
 uid: 4b4edc1e-6557-d075-6d6c-4d9e592cdbde
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: ChineseCinema_Cheng.pdf
-type: OCWFile
 uid: b9ad95ac-83ee-e47c-9343-34bc566315f0
 ---
