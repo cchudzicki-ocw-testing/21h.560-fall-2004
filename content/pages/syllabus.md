@@ -16,9 +16,9 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Spring 2009, Ian Chapman ({{< resource_link 5868a8ff-6ae5-b342-9925-69c8334797c1 "PDF" >}})
+> Spring 2009, Ian Chapman ({{% resource_link 5868a8ff-6ae5-b342-9925-69c8334797c1 "PDF" %}})
 > 
-> Fall 2004, Peter Perdue ({{< resource_link 4b4edc1e-6557-d075-6d6c-4d9e592cdbde "PDF" >}})
+> Fall 2004, Peter Perdue ({{% resource_link 4b4edc1e-6557-d075-6d6c-4d9e592cdbde "PDF" %}})
 
 Description
 -----------
