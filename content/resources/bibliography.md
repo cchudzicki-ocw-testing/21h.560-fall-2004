@@ -10,6 +10,7 @@ description: 'BIBLIOGRAPHY
 file: /courses/21h-560-smashing-the-iron-rice-bowl-chinese-east-asia-fall-2004/7cc4936ed5afc72bbfa11b2f771b97f2_bibliography.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

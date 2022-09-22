@@ -6,6 +6,7 @@ description: This resource contains information about how to examine the experie
 file: /courses/21h-560-smashing-the-iron-rice-bowl-chinese-east-asia-fall-2004/5868a8ff6ae5b342992569c8334797c1_MIT21H_560f04_sylls09.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
